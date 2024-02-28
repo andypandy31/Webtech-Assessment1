@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T21:40:29.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="_49lJx7HtqunllaBoEwC" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T23:57:20.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1YKqpJU798KEfXyPt1BY" version="23.1.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
           <mxGeometry x="340" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zFXSnFFcsLOcTapgdQPT-3" value="&lt;h1&gt;Cell Room:&lt;/h1&gt;&lt;p&gt;The cell room page will be the first main page where the player must pick a direction to start their journey.&lt;/p&gt;&lt;p&gt;the two options will be to fight the beast-man or to try an escape without notice.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="480" width="300" height="140" as="geometry" />
+          <mxGeometry x="460" y="480" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="zFXSnFFcsLOcTapgdQPT-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zFXSnFFcsLOcTapgdQPT-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -77,11 +77,11 @@
             <mxPoint x="400" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFXSnFFcsLOcTapgdQPT-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="zFXSnFFcsLOcTapgdQPT-6" value="Hall Way One" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zFXSnFFcsLOcTapgdQPT-7" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="640" width="300" height="140" as="geometry" />
+        <mxCell id="zFXSnFFcsLOcTapgdQPT-7" value="&lt;h1&gt;Hallway one&lt;/h1&gt;&lt;p&gt;The hallway will not contain anything of major interest for the player just a breather moment as the page describes the hallway and what is within it along with the options to continue down the hallway.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="640" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="zFXSnFFcsLOcTapgdQPT-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zFXSnFFcsLOcTapgdQPT-2" target="zFXSnFFcsLOcTapgdQPT-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -92,8 +92,8 @@
         <mxCell id="zFXSnFFcsLOcTapgdQPT-9" value="Cell Room Second Floor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zFXSnFFcsLOcTapgdQPT-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="zFXSnFFcsLOcTapgdQPT-10" value="Cell Room Second Floor (DEFEAT)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zFXSnFFcsLOcTapgdQPT-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zFXSnFFcsLOcTapgdQPT-9" target="zFXSnFFcsLOcTapgdQPT-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -103,6 +103,12 @@
         </mxCell>
         <mxCell id="zFXSnFFcsLOcTapgdQPT-12" value="&lt;h1&gt;Cell R SF:&lt;/h1&gt;&lt;div&gt;The fist combat room where the player choices from environmental object what to use as a weapon as well as an extra option for hideing.&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="360" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zFXSnFFcsLOcTapgdQPT-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zFXSnFFcsLOcTapgdQPT-9" target="zFXSnFFcsLOcTapgdQPT-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="600" as="sourcePoint" />
+            <mxPoint x="260" y="550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
