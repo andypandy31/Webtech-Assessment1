@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T23:58:18.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="BBdwP3uBK0jSSpTbgNLD" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-29T00:12:16.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="OdD5RD1Rm4vXP0j-hBDT" version="23.1.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
         <mxCell id="zFXSnFFcsLOcTapgdQPT-6" value="Hall Way One" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zFXSnFFcsLOcTapgdQPT-7" value="&lt;h1&gt;Hallway one&lt;/h1&gt;&lt;p&gt;The hallway will not contain anything of major interest for the player just a breather moment as the page describes the hallway and what is within it along with the options to continue down the hallway.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zFXSnFFcsLOcTapgdQPT-7" value="&lt;h1&gt;Hallway one&lt;/h1&gt;&lt;p&gt;The hallway will not contain anything of major interest for the player just a breather moment as the page describes the hallway and what is within it along with the prompt to continue down the hallway.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="640" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="zFXSnFFcsLOcTapgdQPT-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zFXSnFFcsLOcTapgdQPT-2" target="zFXSnFFcsLOcTapgdQPT-9">
@@ -109,6 +109,45 @@
             <mxPoint x="210" y="600" as="sourcePoint" />
             <mxPoint x="260" y="550" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zFXSnFFcsLOcTapgdQPT-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zFXSnFFcsLOcTapgdQPT-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="840" as="sourcePoint" />
+            <mxPoint x="400" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFXSnFFcsLOcTapgdQPT-15" value="Hall Way Chest" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zFXSnFFcsLOcTapgdQPT-17" value="&lt;h1&gt;Hall way mimic&lt;/h1&gt;&lt;p&gt;The player will encounter a mimic and will have multiple options such as opening the chest or ignoring the chest, with the options differing for class to class.&lt;/p&gt;&lt;p&gt;Example the wizard feel&#39;s the magical senses from the mimic examining him.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="800" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zFXSnFFcsLOcTapgdQPT-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zFXSnFFcsLOcTapgdQPT-15" target="zFXSnFFcsLOcTapgdQPT-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="830" as="sourcePoint" />
+            <mxPoint x="320" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFXSnFFcsLOcTapgdQPT-21" value="mage outcome" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zFXSnFFcsLOcTapgdQPT-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zFXSnFFcsLOcTapgdQPT-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="930" as="sourcePoint" />
+            <mxPoint x="400" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFXSnFFcsLOcTapgdQPT-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zFXSnFFcsLOcTapgdQPT-21" target="zFXSnFFcsLOcTapgdQPT-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="880" as="sourcePoint" />
+            <mxPoint x="100" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFXSnFFcsLOcTapgdQPT-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zFXSnFFcsLOcTapgdQPT-27" value="&lt;h1&gt;Mage Outcome:&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="840" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
