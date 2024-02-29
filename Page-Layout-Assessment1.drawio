@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T16:13:20.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vJRd6wP83KmDqvjzI7uX" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-29T16:27:00.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="MKOj8KsBmkizoDLWWoru" version="23.1.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2487" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1947" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="8M8Ricd8YmC17zNcSAAh-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" target="8M8Ricd8YmC17zNcSAAh-12">
+        <mxCell id="8M8Ricd8YmC17zNcSAAh-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="8M8Ricd8YmC17zNcSAAh-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="120" as="sourcePoint" />
             <mxPoint x="240" y="200" as="targetPoint" />
@@ -31,7 +31,7 @@
             <mxPoint x="400" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFXSnFFcsLOcTapgdQPT-1" value="&lt;h1&gt;Cell One:&lt;/h1&gt;&lt;p&gt;This will be a literal cell the player is trapped within with all options but one leading to the player&#39;s escape, with the exception being when the player yells for help out loud drawing the attention of the beast man that is wondering the large room with lots of stacked cells embedded in the walls.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="zFXSnFFcsLOcTapgdQPT-1" value="&lt;h1&gt;Cell One:&lt;/h1&gt;&lt;p&gt;This will be a literal cell the player is trapped within embedded in the wall and the player will notice that a beast man is roaming the filled room disappearing and reappearing around and behind the cages that are not embedded in the wall but stacked in the middle of the room.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="460" y="280" width="300" height="140" as="geometry" />
         </mxCell>
         <mxCell id="zFXSnFFcsLOcTapgdQPT-2" value="Cell Room Page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="zFXSnFFcsLOcTapgdQPT-3" value="&lt;h1&gt;Cell Room:&lt;/h1&gt;&lt;p&gt;The cell room page will be the first main page where the player must pick a direction to start their journey.&lt;/p&gt;&lt;p&gt;The two options will be to get out of the room&#39;s main door or to jump into the stairs built into the wall and proceed up them.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="460" y="480" width="300" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="zFXSnFFcsLOcTapgdQPT-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zFXSnFFcsLOcTapgdQPT-2" edge="1" target="zFXSnFFcsLOcTapgdQPT-6">
+        <mxCell id="zFXSnFFcsLOcTapgdQPT-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zFXSnFFcsLOcTapgdQPT-2" target="zFXSnFFcsLOcTapgdQPT-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="690" as="sourcePoint" />
             <mxPoint x="400" y="640" as="targetPoint" />
@@ -61,7 +61,7 @@
         <mxCell id="zFXSnFFcsLOcTapgdQPT-9" value="Cell Room Second Floor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zFXSnFFcsLOcTapgdQPT-10" target="8M8Ricd8YmC17zNcSAAh-9">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zFXSnFFcsLOcTapgdQPT-10" target="8M8Ricd8YmC17zNcSAAh-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="70" y="560" />
@@ -79,7 +79,7 @@
             <mxPoint x="240" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFXSnFFcsLOcTapgdQPT-12" value="&lt;h1&gt;Cell Room SF:&lt;/h1&gt;&lt;div&gt;The fist combat room where the player choices to ambush the beast man or to attempt to hide with in the second floor room&lt;/div&gt;&lt;div&gt;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="zFXSnFFcsLOcTapgdQPT-12" value="&lt;h1&gt;Cell Room SF:&lt;/h1&gt;&lt;div&gt;The fist combat room where the player choices to ambush the beast man or to attempt to hide with in the second floor room&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="370" width="250" height="110" as="geometry" />
         </mxCell>
         <mxCell id="zFXSnFFcsLOcTapgdQPT-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-9" target="zFXSnFFcsLOcTapgdQPT-6" edge="1">
@@ -94,46 +94,46 @@
             <mxPoint x="400" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-5" value="&lt;h1&gt;Defeat:&lt;/h1&gt;&lt;p&gt;By picking to hide the beast man finds you and before you are able to get up, hits you over the head and you are knocked out.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-5" value="&lt;h1&gt;Defeat:&lt;/h1&gt;&lt;p&gt;By picking to hide the beast man finds you and before you are able to get up, hits you over the head and you are knocked out.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-200" y="620" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-9" value="Outcome" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-9" value="Outcome" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zFXSnFFcsLOcTapgdQPT-9" target="BrZVJdfoGeoX7WeHranQ-9">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zFXSnFFcsLOcTapgdQPT-9" target="BrZVJdfoGeoX7WeHranQ-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="740" as="sourcePoint" />
             <mxPoint x="330" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="BrZVJdfoGeoX7WeHranQ-21">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="BrZVJdfoGeoX7WeHranQ-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="980" as="sourcePoint" />
             <mxPoint x="220" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-21" value="Return to Cell room One Door" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-21" value="Return to Cell room One Door" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-22" value="&lt;h1&gt;Return to the cell room one door:&lt;/h1&gt;&lt;p&gt;The player will creep up to the door of cell room one and looking through the broken view slit the player will see 3 beast men that are roughly grabbing people and moster alike out of the cells in the walls.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-22" value="&lt;h1&gt;Return to the cell room one door:&lt;/h1&gt;&lt;p&gt;The player will creep up to the door of cell room one and looking through the broken view slit the player will see 3 beast men that are roughly grabbing people and moster alike out of the cells in the walls.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-210" y="960" width="280" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-26" value="Hallway Two Split" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-26" value="Hallway Two Split" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-21" target="BrZVJdfoGeoX7WeHranQ-26">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-21" target="BrZVJdfoGeoX7WeHranQ-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="1060" as="sourcePoint" />
             <mxPoint x="250" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-21" target="BrZVJdfoGeoX7WeHranQ-29">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-21" target="BrZVJdfoGeoX7WeHranQ-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="1110" as="sourcePoint" />
             <mxPoint x="140" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-29" target="8M8Ricd8YmC17zNcSAAh-9">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-29" target="8M8Ricd8YmC17zNcSAAh-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="110" y="1140" />
@@ -142,13 +142,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-29" value="Entering cell room (Defeat)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-29" value="Entering cell room (Defeat)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="1160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-31" value="&lt;h1&gt;Hallway split:&lt;/h1&gt;&lt;p&gt;The hallway splits the player can go left or right.&lt;/p&gt;&lt;p&gt;On the left is a hallway similar to the hallway the player has just walked down with the same-looking metal door at the end.&lt;/p&gt;&lt;p&gt;On the right, there is a short hallway that leads to a spiral staircase built straight into the stone wall that looks well-worn.&lt;/p&gt;&lt;p&gt;The player is informed that noise can be hear from the Cell room some roads or shoats from what sounds like more besat men.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-31" value="&lt;h1&gt;Hallway split:&lt;/h1&gt;&lt;p&gt;The hallway splits the player can go left or right.&lt;/p&gt;&lt;p&gt;On the left is a hallway similar to the hallway the player has just walked down with the same-looking metal door at the end.&lt;/p&gt;&lt;p&gt;On the right, there is a short hallway that leads to a spiral staircase built straight into the stone wall that looks well-worn.&lt;/p&gt;&lt;p&gt;The player is informed that noise can be hear from the Cell room some roads or shoats from what sounds like more besat men.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="460" y="960" width="290" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="BrZVJdfoGeoX7WeHranQ-34">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="BrZVJdfoGeoX7WeHranQ-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="1000" as="sourcePoint" />
             <mxPoint x="140" y="1320" as="targetPoint" />
@@ -157,62 +157,62 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-26" target="BrZVJdfoGeoX7WeHranQ-35">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-26" target="BrZVJdfoGeoX7WeHranQ-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="375" y="1300" as="sourcePoint" />
             <mxPoint x="400" y="1330" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-34" value="Second Cell Room" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-34" value="Second Cell Room" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-40" y="1320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-35" value="Ground Floor." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-35" value="Ground Floor." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="1655" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-36" value="&lt;h1&gt;The Second Cell Room Door &amp;amp; Room:&lt;/h1&gt;&lt;p&gt;The player will get to the second cell room and check it realising that it is empty, even the second-floor room for the cell room only has empty cages&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;After examining the room the character returns to the door and hears some noises outside the room and checks to see, three beast men heading up the stairs with two dog-looking creatures.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-36" value="&lt;h1&gt;The Second Cell Room Door &amp;amp; Room:&lt;/h1&gt;&lt;p&gt;The player will get to the second cell room and check it realising that it is empty, even the second-floor room for the cell room only has empty cages&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;After examining the room the character returns to the door and hears some noises outside the room and checks to see, three beast men heading up the stairs with two dog-looking creatures.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-325" y="1320" width="280" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-37" value="&lt;h1&gt;Ground floor&lt;/h1&gt;&lt;p&gt;The player will climb the stair an find them self in a corner of a large room that appears to be a mansion&#39;s entrance hall with the stairs the player is on hid in the shadows under an another stair case leading to the upper floor.&lt;/p&gt;&lt;p&gt;The ground floor will be not heavily populated but will have one or two human looking people moving around sometime ordering beast men around then leavening with those beast men to one of the many rooms providing the player with a empty entrance hall.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-37" value="&lt;h1&gt;Ground floor&lt;/h1&gt;&lt;p&gt;The player will climb the stair an find them self in a corner of a large room that appears to be a mansion&#39;s entrance hall with the stairs the player is on hid in the shadows under an another stair case leading to the upper floor.&lt;/p&gt;&lt;p&gt;The ground floor will be not heavily populated but will have one or two human looking people moving around sometime ordering beast men around then leavening with those beast men to one of the many rooms providing the player with a empty entrance hall.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="460" y="1515" width="365" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-39" value="&lt;h1&gt;Entering cell room:&lt;/h1&gt;&lt;p&gt;The player will be destroyed by three beast men as they set about fighting the player almost as soon they see them the player will defeat one but be defeated by the other two in the prolonged fight.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-39" value="&lt;h1&gt;Entering cell room:&lt;/h1&gt;&lt;p&gt;The player will be destroyed by three beast men as they set about fighting the player almost as soon they see them the player will defeat one but be defeated by the other two in the prolonged fight.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-200" y="1160" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-34" target="BrZVJdfoGeoX7WeHranQ-46">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-34" target="BrZVJdfoGeoX7WeHranQ-46" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="1500" as="sourcePoint" />
             <mxPoint x="20" y="1520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-46" value="Following The Beast Men" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-46" value="Following The Beast Men" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-40" y="1400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-49" value="Ground Floor." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-49" value="Ground Floor." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-120" y="1560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-46" target="BrZVJdfoGeoX7WeHranQ-49">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-46" target="BrZVJdfoGeoX7WeHranQ-49" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="1550" as="sourcePoint" />
             <mxPoint x="300" y="1500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-52" value="Running For Main Door = ESCAPE!" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-52" value="Running For Main Door = ESCAPE!" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-120" y="1640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-53" value="&lt;h1&gt;Empty ground floor and escape:&lt;/h1&gt;&lt;p&gt;In this section, the player gets to escape due to the three beastmen after getting to the ground floor one of the dog-like beasts attacks a human-looking person using a large bat-winged daemon to call in a language the player does not understand from the top of the large staircase causing all the people to get the injured human and leave in haste to one of the rooms to the side of the large hall with the bad daemon following soon after.&lt;/p&gt;&lt;p&gt;The player runs for the front door and escapes and keeps running hearing shouts and roars but after running for more than an hour on and off you no longer hear anything following in the distance as you had at first.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-53" value="&lt;h1&gt;Empty ground floor and escape:&lt;/h1&gt;&lt;p&gt;In this section, the player gets to escape due to the three beastmen after getting to the ground floor one of the dog-like beasts attacks a human-looking person using a large bat-winged daemon to call in a language the player does not understand from the top of the large staircase causing all the people to get the injured human and leave in haste to one of the rooms to the side of the large hall with the bad daemon following soon after.&lt;/p&gt;&lt;p&gt;The player runs for the front door and escapes and keeps running hearing shouts and roars but after running for more than an hour on and off you no longer hear anything following in the distance as you had at first.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="1560" width="275" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-55" value="Waiting Ground Floor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-55" value="Waiting Ground Floor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-320" y="1560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-49" target="BrZVJdfoGeoX7WeHranQ-52">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-49" target="BrZVJdfoGeoX7WeHranQ-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="1690" as="sourcePoint" />
             <mxPoint x="60" y="1640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-280.06" y="1679.9999999999995" as="sourcePoint" />
             <mxPoint x="340" y="80" as="targetPoint" />
@@ -223,49 +223,49 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-61" value="Defeat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-61" value="Defeat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-320" y="1640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-62" value="&lt;h1&gt;Waiting Ground Floor:&lt;/h1&gt;&lt;p&gt;If the player wait&#39;s at the stair&#39;s on the ground floor the bat daemon come storming out the room they took the injured human to and heads straight for the stair&#39;s you are hiding in but the player is informed that the daemon notices them and dashes at them catching them on the stairs knocking them out on the spot.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-62" value="&lt;h1&gt;Waiting Ground Floor:&lt;/h1&gt;&lt;p&gt;If the player wait&#39;s at the stair&#39;s on the ground floor the bat daemon come storming out the room they took the injured human to and heads straight for the stair&#39;s you are hiding in but the player is informed that the daemon notices them and dashes at them catching them on the stairs knocking them out on the spot.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-510" y="1560" width="190" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-64" value="&lt;h1&gt;Following beast-men&lt;/h1&gt;&lt;p&gt;By waiting the player get to follow the beast men up to the ground floor unseen and witnesses a incident where allowing for a chance to attempt&amp;nbsp; escaping.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-64" value="&lt;h1&gt;Following beast-men&lt;/h1&gt;&lt;p&gt;By waiting the player get to follow the beast men up to the ground floor unseen and witnesses a incident where allowing for a chance to attempt&amp;nbsp; escaping.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="1400" width="220" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-49" target="BrZVJdfoGeoX7WeHranQ-55">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-49" target="BrZVJdfoGeoX7WeHranQ-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-190" y="1750" as="sourcePoint" />
             <mxPoint x="-140" y="1700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-55" target="BrZVJdfoGeoX7WeHranQ-61">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-55" target="BrZVJdfoGeoX7WeHranQ-61" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="1600" as="sourcePoint" />
             <mxPoint x="130" y="1550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-73" value="Sneak forward in ground floor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-73" value="Sneak forward in ground floor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="490" y="1920" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-74" value="Waiting&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-74" value="Waiting&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="220" y="1920" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-35" target="BrZVJdfoGeoX7WeHranQ-74">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-35" target="BrZVJdfoGeoX7WeHranQ-74" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="375" y="1890" as="sourcePoint" />
             <mxPoint x="425" y="1840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-78" value="&lt;h1&gt;Waiting At Ground Floor&lt;/h1&gt;&lt;p&gt;If the player chooses to wait at the ground floor the three beast men that where down stairs will start coming up and force the player to move.&lt;/p&gt;&lt;p&gt;Attempting to enter a room or go upstairs will result in meeting someone or something that alerts the mansion to the player&#39;s presence.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-78" value="&lt;h1&gt;Waiting At Ground Floor&lt;/h1&gt;&lt;p&gt;If the player chooses to wait at the ground floor the three beast men that where down stairs will start coming up and force the player to move.&lt;/p&gt;&lt;p&gt;Attempting to enter a room or go upstairs will result in meeting someone or something that alerts the mansion to the player&#39;s presence.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-70" y="1930" width="290" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-74">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-74" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="2120" as="sourcePoint" />
             <mxPoint x="280" y="2040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.148;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="8M8Ricd8YmC17zNcSAAh-9">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.148;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="8M8Ricd8YmC17zNcSAAh-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="237.75999999999976" y="2079.6499999999996" as="sourcePoint" />
             <mxPoint x="300" y="60" as="targetPoint" />
@@ -276,52 +276,52 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-80" value="Attempt to enter a room or go up stairs (Defeat)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-80" value="Attempt to enter a room or go up stairs (Defeat)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="220" y="2040" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-74" target="BrZVJdfoGeoX7WeHranQ-73">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-74" target="BrZVJdfoGeoX7WeHranQ-73" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="2050" as="sourcePoint" />
             <mxPoint x="400" y="2000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-82" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-35" target="BrZVJdfoGeoX7WeHranQ-73">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-82" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-35" target="BrZVJdfoGeoX7WeHranQ-73" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="1720" as="sourcePoint" />
             <mxPoint x="510" y="1750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-84" value="&lt;h1&gt;Sneaking forward in shadow&amp;nbsp;&lt;/h1&gt;&lt;p&gt;The player will sneak forward in the shadow of the large stair case pausing at the edge of the shadow as three beast men appear out of the stairs in the corner that the player was just a moment ago.&lt;/p&gt;&lt;p&gt;The beast men will pass and one of the dog-like creature notices you but the beast man thinks that it is just attempting to get away and hits the monster causing it to enrage grabbing a some what human man that burst&#39;s from a door to fast for the dog beast&#39;s likening.&lt;/p&gt;&lt;p&gt;This in turn causes the same incident where the bat demon tells them to get in a room and follows them into the room.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-84" value="&lt;h1&gt;Sneaking forward in shadow&amp;nbsp;&lt;/h1&gt;&lt;p&gt;The player will sneak forward in the shadow of the large stair case pausing at the edge of the shadow as three beast men appear out of the stairs in the corner that the player was just a moment ago.&lt;/p&gt;&lt;p&gt;The beast men will pass and one of the dog-like creature notices you but the beast man thinks that it is just attempting to get away and hits the monster causing it to enrage grabbing a some what human man that burst&#39;s from a door to fast for the dog beast&#39;s likening.&lt;/p&gt;&lt;p&gt;This in turn causes the same incident where the bat demon tells them to get in a room and follows them into the room.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="680" y="1820" width="357.5" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-73" target="BrZVJdfoGeoX7WeHranQ-86">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-73" target="BrZVJdfoGeoX7WeHranQ-86" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="1910" as="sourcePoint" />
             <mxPoint x="560" y="2110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-86" value="Run = Escape" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-86" value="Run = Escape" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="525" y="2070" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-87" value="&lt;h1&gt;Runs for front door and escapes&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;The player runs for the front door and escapes and keeps running hearing shouts and roars but after running for more than an hour on and off you no longer hear anything following in the distance as you had at first.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-87" value="&lt;h1&gt;Runs for front door and escapes&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;The player runs for the front door and escapes and keeps running hearing shouts and roars but after running for more than an hour on and off you no longer hear anything following in the distance as you had at first.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="2110" width="270" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-34">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="1410" as="sourcePoint" />
             <mxPoint x="200" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-91" value="Cell room one is now locked as the beast men locked it as they left." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-91" value="Cell room one is now locked as the beast men locked it as they left." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="1300" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-91" target="BrZVJdfoGeoX7WeHranQ-46">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-91" target="BrZVJdfoGeoX7WeHranQ-46" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="197.5" y="1350" as="sourcePoint" />
             <mxPoint x="90" y="1390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-98" value="&lt;h1&gt;Outcome&lt;/h1&gt;&lt;p&gt;The player catches the beast man right on on the jaw with a kick from on to of some cages as the beast man steps into the room knocking them out.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-98" value="&lt;h1&gt;Outcome&lt;/h1&gt;&lt;p&gt;The player catches the beast man right on on the jaw with a kick from on to of some cages as the beast man steps into the room knocking them out.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="105" y="700" width="190" height="130" as="geometry" />
         </mxCell>
       </root>
