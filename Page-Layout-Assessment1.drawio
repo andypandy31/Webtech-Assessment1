@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T16:05:03.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1zTEBnddMGeCo4t3xiwV" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-29T16:07:34.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ML0ngWQRJek3DJ_X_xPS" version="23.1.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2487" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
             <mxPoint x="400" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrZVJdfoGeoX7WeHranQ-5" value="&lt;h1&gt;Defeat:&lt;/h1&gt;&lt;p&gt;By picking to hide the beast man fins you and before you are able to get up hits you over the head and you are knocked out.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-5" value="&lt;h1&gt;Defeat:&lt;/h1&gt;&lt;p&gt;By picking to hide the beast man finds you and before you are able to get up, hits you over the head and you are knocked out.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-200" y="620" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BrZVJdfoGeoX7WeHranQ-9" value="Outcome" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -319,6 +319,9 @@
             <mxPoint x="197.5" y="1350" as="sourcePoint" />
             <mxPoint x="90" y="1390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BrZVJdfoGeoX7WeHranQ-98" value="&lt;h1&gt;Outcome&lt;/h1&gt;&lt;p&gt;The player catches the beast man right on on the jaw with a kick from on to of some cages as the beast man steps into the room knocking them out.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="105" y="700" width="190" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
