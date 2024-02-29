@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T16:11:11.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1vOhP3EnVw8aTT4q6QFC" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-29T16:12:31.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="l2WAvM9CZI91FTv4rPdw" version="23.1.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2487" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -292,7 +292,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BrZVJdfoGeoX7WeHranQ-84" value="&lt;h1&gt;Sneaking forward in shadow&amp;nbsp;&lt;/h1&gt;&lt;p&gt;The player will sneak forward in the shadow of the large stair case pausing at the edge of the shadow as three beast men appear out of the stairs in the corner that the player was just a moment ago.&lt;/p&gt;&lt;p&gt;The beast men will pass and one of the dog-like creature notices you but the beast man thinks that it is just attempting to get away and hits the monster causing it to enrage grabbing a some what human man that burst&#39;s from a door to fast for the dog beast&#39;s likening.&lt;/p&gt;&lt;p&gt;This in turn causes the same incident where the bat demon tells them to get in a room and follows them into the room.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="1820" width="357.5" height="240" as="geometry" />
+          <mxGeometry x="680" y="1820" width="357.5" height="240" as="geometry" />
         </mxCell>
         <mxCell id="BrZVJdfoGeoX7WeHranQ-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BrZVJdfoGeoX7WeHranQ-73" target="BrZVJdfoGeoX7WeHranQ-86">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
